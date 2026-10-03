@@ -1,0 +1,23 @@
+{
+    "CLIENTNUM": "Número do cliente. Identificador único do cliente titular da conta.",
+    "Attrition_Flag": "Variável de evento interno (atividade do cliente) - se a conta estiver fechada, o valor é 1; caso contrário, é 0.",
+    "Customer_Age": "Variável demográfica - Idade do cliente em anos",
+    "Gender": "Variável demográfica - M = Masculino, F = Feminino",
+    "Dependent_count": "Variável demográfica - Número de dependentes",
+    "Education_Level": "Variável demográfica - Escolaridade do titular da conta (exemplo: ensino médio, ensino superior completo, etc.)",
+    "Marital_Status" : "Variável demográfica - Casado(a), Solteiro(a), Divorciado(a), Estado civil desconhecido",
+    "Income_Category": "Variável demográfica - Categoria de renda anual do titular da conta (< $40K, $40K - 60K, $60K - $80K, $80K-$120K, >",
+    "Card_Category": "Variável do produto - Tipo de cartão (Azul, Prata, Ouro, Platina)",
+    "Months_on_book": "Período de relacionamento com o banco",
+    "Total_Relationship_Count": "Número total de produtos que o cliente possui",
+    "Months_Inactive_12_mon": "Número de meses de inatividade nos últimos 12 meses",
+    "Contacts_Count_12_mon": "Número de contatos nos últimos 12 meses",
+    "Credit_Limit": "Limite de crédito do cartão de crédito",
+    "Total_Revolving_Bal": "Saldo rotativo total do cartão de crédito",
+    "Avg_Open_To_Buy": "Disponibilidade para comprar linha de crédito (média dos últimos 12 meses)",
+    "Total_Amt_Chng_Q4_Q1": "Variação no valor das transações (4º trimestre em relação ao 1º trimestre)",
+    "Total_Trans_Amt": "Valor total das transações (últimos 12 meses)",
+    "Total_Trans_Ct": "Total de transações (últimos 12 meses)",
+    "Total_Ct_Chng_Q4_Q1": "Variação no número de transações (4º trimestre em relação ao 1º trimestre)",
+    "Avg_Utilization_Ratio": "Taxa média de utilização do cartão"
+}
