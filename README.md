@@ -2,7 +2,7 @@
 
 Projeto de Machine Learning para prever o **churn** (abandono) de clientes de cartão de
 crédito, usando o dataset [BankChurners](https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers)
-do Kaggle.
+do Kaggle e o resultado no streamlit pelo link https://fc-churn.streamlit.app/.
 
 A solução é composta por três partes:
 
